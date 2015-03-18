@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>80F2F916-B17D-4EA5-899A-63C789FA69DB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Numerics</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD37B001E6A140651FE1F1D54DA303EEF8ED0829</key>
+		<string>https://github.com/shyang107/Numerics.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Numerics/Numerics.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD37B001E6A140651FE1F1D54DA303EEF8ED0829</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shyang107/Numerics.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD37B001E6A140651FE1F1D54DA303EEF8ED0829</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD37B001E6A140651FE1F1D54DA303EEF8ED0829</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Numerics</string>
+		</dict>
+	</array>
+</dict>
+</plist>
