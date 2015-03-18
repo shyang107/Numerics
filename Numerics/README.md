@@ -1,7 +1,7 @@
 # Numerics
 
-Creator:	YANG Shuhhua
-Date:		03/18/2015
+* Creator:	YANG Shuhhua
+* Date:		03/18/2015
 
 # Cotents
 
